@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "cors": "^2.8.5",
-    "heroku": "^7.60.2"
-  }
-}
